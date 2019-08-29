@@ -1,3 +1,27 @@
+body{
+    margin:0; padding:0; font-size: 12px;
+}
+
+h1{
+    font-size: 14px; color: #f03;
+}
+
+ul,ol,dl{
+    list-style: none; padding: 0;
+}
+
 ul li{
-    font-weight: bold;
+    font-weight: bold; font-size: 20px; color: #f00;
+
+}
+ol li {
+    font-size: 40px; text-decoration: underline; color: #0f0;
+}
+
+dl dt{
+    color: #000;
+}
+
+dl dd{
+    margin: 0; color: #00f;
 }
