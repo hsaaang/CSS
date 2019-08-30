@@ -1,0 +1,10 @@
+html,body{height: 100%;}
+body{margin: 0; padding: 0;}
+.wrap{
+    height: 100%;
+    background-color: rgba(248, 86, 11, 0.486);
+}
+p{
+    background-color: mediumspringgreen;
+    padding: 15px; margin: 0;
+}

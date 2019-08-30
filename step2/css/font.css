@@ -29,3 +29,22 @@ p.w_nowrap{
     border: 1px solid black;
     text-overflow: ellipsis; overflow: hidden;
 }
+.v_alignTest img{
+    vertical-align: middle;
+}
+.v_alignTest span{vertical-align: top;}
+
+p.t_indent{text-indent: 40px; font-size: 28px;}
+
+a{display: block;}
+
+a.t_deco_N{text-decoration: none; text-transform: uppercase; color: #090;}
+
+a.t_deco_U{text-decoration: underline; text-transform: lowercase; color: crimson}
+
+a.t_deco_O{text-decoration: overline; text-transform: capitalize; color: orchid}
+
+a.t_deco_T{text-decoration: line-through; color: midnightblue }
+
+p.DR_ltr{direction: ltr;}
+p.DR_rtl{direction: rtl;}
